@@ -1,10 +1,10 @@
 # ETC5521 Assignment 1 
 
-Team name: [FILL]
+Team name: Wombat
 
 Team members:
 
-* [FILL]
+* Zhang Zhang
 * [FILL]
 
 # Steps
